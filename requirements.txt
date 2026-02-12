@@ -8,3 +8,6 @@ fer
 opencv-python-headless
 gTTS
 speech_recognition
+librosa
+torchaudio
+plotly

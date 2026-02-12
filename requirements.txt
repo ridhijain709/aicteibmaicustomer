@@ -7,3 +7,4 @@ torch
 fer
 opencv-python-headless
 gTTS
+speech_recognition

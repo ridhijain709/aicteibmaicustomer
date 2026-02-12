@@ -11,3 +11,4 @@ speech_recognition
 librosa
 torchaudio
 plotly
+scikit-image
